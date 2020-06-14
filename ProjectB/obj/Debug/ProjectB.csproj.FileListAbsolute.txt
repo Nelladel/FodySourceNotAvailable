@@ -1,0 +1,11 @@
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\bin\Debug\ProjectB.exe.config
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\bin\Debug\ProjectB.exe
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\bin\Debug\ProjectB.pdb
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\bin\Debug\MethodDecorator.dll
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\bin\Debug\MethodDecorator.xml
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.csprojAssemblyReference.cache
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.csproj.CopyComplete
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.exe
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.pdb
+C:\Users\jsg\Documents\Visual Studio 2019\Projects\Test\ProjectB\obj\Debug\ProjectB.csproj.Fody.CopyLocal.cache
